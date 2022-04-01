@@ -1,2 +1,2 @@
-## Speech Ehancement with Nerual Homomorphic Synthesis
+## Speech Enhancement with Nerual Homomorphic Synthesis
 Online Samples
